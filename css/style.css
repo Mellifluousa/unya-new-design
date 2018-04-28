@@ -37,7 +37,7 @@ body {
 }
 
 a {
-    color: #e38cb7;
+    color: #6e9ffd;
 }
 
 a:hover,
@@ -69,13 +69,13 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    color: #396791;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    color: #396791;
     margin-bottom: 0.7rem;
 }
 
@@ -89,7 +89,7 @@ p.lead {
 }
 
 .text-primary {
-    color: #e38cb7 !important;
+    color: #b2d6e8 !important;
 }
 
 .light-font {
@@ -110,10 +110,10 @@ p.lead {
 
 .btn-primary {
     border-radius: 3px;
-    background-image: -moz-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -webkit-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -ms-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
+    background-image: -moz-linear-gradient( 122deg, #4c64a9 0%, #3289bb 100%);
+    background-image: -webkit-linear-gradient( 122deg, #4c64a9 0%, #3289bb 100%);
+    background-image: -ms-linear-gradient( 122deg, #4c64a9 0%, #3289bb 100%);
+    background-image: linear-gradient( 122deg, #4c64a9 0%, #3289bb 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
     font-weight: 500;
     padding: 0.6rem 2rem;
@@ -211,7 +211,7 @@ p.lead {
     }
     .navbar-nav>.nav-item>.nav-link.active:after {
         content: "";
-        border-bottom: 2px solid #cd99d4;
+        border-bottom: 2px solid #79c0dc;
         left: 1rem;
         right: 1rem;
         bottom: 5px;
@@ -249,7 +249,7 @@ header {
 .tagline {
     font-size: 23px;
     font-weight: 300;
-    color: #ffb8f6;
+    color: #9ed0df;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -280,10 +280,10 @@ header {
 ----------------------*/
 
 .gradient-fill:before {
-    color: #fc73b4;
-    background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
+    color: #6991f1;
+    background: -moz-linear-gradient(top, #4c64a9 0%, #64efc2 100%);
+    background: -webkit-linear-gradient(top, #4c64a9 0%, #64efc2 100%);
+    background: linear-gradient(to bottom, #4c64a9 0%, #64efc2 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -309,10 +309,10 @@ header {
     content: "";
     position: absolute;
     width: 3px;
-    color: #fc73b4;
-    background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
+    color: #73a1fc;
+    background: -moz-linear-gradient(top, #4c64a9 0%, #64efc2 100%);
+    background: -webkit-linear-gradient(top, #4c64a9 0%, #64efc2 100%);
+    background: linear-gradient(to bottom, #4c64a9 0%, #64efc2 100%);
     top: 0;
     bottom: 0;
     left: 0;
@@ -346,7 +346,7 @@ header {
     border-radius: 50%;
     margin-bottom: 1.5rem;
     background-color: #FFF;
-    color: #f5378e;
+    color: #396791;
     font-size: 48px;
     text-align: center;
     line-height: 80px;
@@ -377,7 +377,7 @@ header {
 }
 
 .ui-steps li:not(:last-child) {
-    border-bottom: 1px solid #f8e3f0;
+    border-bottom: 1px solid #e3f1f8;
 }
 
 .perspective-phone {
@@ -485,7 +485,7 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot span {
-    background: #e7d9eb;
+    background: #d9ebf3;
     width: 35px;
     height: 8px;
     border-radius: 10px;
@@ -493,11 +493,11 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #ff487e;
+    background: #add1ec;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-    background: #ff487e;
+    background: #5bace0;
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
 }
 
@@ -535,7 +535,7 @@ header {
 
 .card.pricing.popular {
     border-top-width: 3px;
-    border-color: #ce75b4 #faf6fb #FFF;
+    border-color: #75a6ce #faf6fb #FFF;
     box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
     color: #633991;
 }
@@ -549,7 +549,7 @@ header {
     display: block;
     font-size: 45px;
     font-weight: 300;
-    color: #633991;
+    color: #6390b3;
 }
 
 .card.pricing .card-head .price sub {
@@ -597,7 +597,7 @@ header {
 .call-to-action .tagline {
     font-size: 16px;
     font-weight: 300;
-    color: #ffb8f6;
+    color: #9ed0df;
     max-width: 650px;
     margin: 0 auto;
 }
@@ -625,7 +625,7 @@ header {
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    color: #c9ddf4;
     transition: all 0.3s ease;
 }
 
