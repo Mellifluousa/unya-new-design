@@ -608,6 +608,32 @@ header {
 }
 
 
+/*------------------------------------*\
+	Numbers
+\*------------------------------------*/
+
+.number {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.number i {
+    color: #FFF;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.number h3 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.white-text {
+    color: #FFF;
+}
+
+
+
 /*  FOOTER
 ----------------------*/
 
