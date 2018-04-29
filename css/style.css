@@ -180,6 +180,12 @@ p.lead {
     }
 }
 
+li {
+  color: #959094; /* bullet color */
+}
+li span {
+  color: #959094; /* text color */
+}
 
 /* NAVBAR
 ----------------------*/
