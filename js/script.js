@@ -109,4 +109,19 @@ $(function() {
         });
     }
 
+  const reference = typeformEmbed.makePopup(
+    'https://unyaaalborg.typeform.com/to/NZndeK',
+    {
+      mode: 'popup',
+      hideHeaders: false,
+      hideFooters: false
+    }
+  );
+
+
+  $("#btn-joinnow").on("click", function(event) {
+    event.preventDefault();
+    reference.open();
+  });
+
 }); /* End Fn */
